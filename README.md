@@ -2,7 +2,7 @@
 
 **`Desenvolvedora em formação`**
 
-Olá! Eu sou a Tácila Miranda, tenho 25 anos e sou de Minas Gerais. 💙
+Olá! Eu sou a Tácila Miranda e sou de Minas Gerais. 💙
 
 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **PUC MINAS** e construindo minha jornada na área de tecnologia.
 
